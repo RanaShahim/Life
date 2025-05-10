@@ -1,4 +1,4 @@
-### Hey there! Here's a small description of what's this game intending to do and how to run it:
+### Hey there! This is a simple simulation of Conway's Game of Life built in React. Here's a small description of what's this game intending to do and how to run it:
 
 
 ## Features
@@ -15,6 +15,8 @@
 - The app follows a default react app Structure. All the Components reside in the `Components` folder. 
 
 ## Getting Started
+
+Note: You need to have node and npm installed before installing the packages and running the server.  
 
 1. Clone the repository
 2. Install dependencies `npm i`
